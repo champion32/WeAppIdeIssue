@@ -11,7 +11,7 @@
 [IDE等文件下载路径](https://pan.baidu.com/s/1c21aS0o)
 ![下载图片](http://upload-images.jianshu.io/upload_images/1355213-a491cad72179e0e3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-Mac和Windows平台均需要下载四个文件,分别为 :
+Mac和Windows(32位和64位不区分)平台均需要下载四个文件,分别为 :
 
 IDE 0.7和0.9版本 + crack-master.zip + demo.zip
 
